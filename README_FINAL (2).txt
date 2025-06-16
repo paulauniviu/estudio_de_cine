@@ -22,6 +22,7 @@ Para ejecutar el programa, abrir y ejecutar el archivo:
 - `main_ENTREGABLE_FINAL.py`: contiene el menú, la lógica principal y la interacción con el usuario.
 - `pelicula_FINAL.py`: contiene la clase base `ContenidoAudiovisual` y 4 clases hijas (`Pelicula`, `Serie`, `Documental`, `Cortometraje`).
 - `README.txt`: este documento.
+-'obras.json: ejemplo de las obras que han sido guardadas.
 
 ## Funcionalidades principales
 
