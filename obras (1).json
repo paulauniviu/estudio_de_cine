@@ -1,0 +1,18 @@
+[
+    {
+        "tipo": "Pelicula",
+        "titulo": "titanic",
+        "duracion": 190,
+        "genero": "drama",
+        "premios": 0,
+        "director": "james cameron"
+    },
+    {
+        "tipo": "Serie",
+        "titulo": "friends",
+        "duracion": 5000,
+        "genero": "comedia",
+        "premios": 0,
+        "temporadas": 12
+    }
+]
